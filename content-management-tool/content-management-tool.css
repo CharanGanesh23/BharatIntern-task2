@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: #241c1c;
+}
+.card-img-top {
+    padding: 15px;
+    height: 300px;
+    width: auto;
+}
+.place__holder__image {
+    width: 100%;
+}
